@@ -1,0 +1,2 @@
+# PokedexMVC
+Projeto padrão MVC
